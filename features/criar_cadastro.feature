@@ -12,7 +12,7 @@ Contexto:
 Cenario: Criar cadastro válido
     E informo o nome "asdaaa"
     E informo o e-mail "asdaaa@gasdail.com"
-    E informo a senha "123456"
+    E informo a senha "12345678"
     E confirmo a senha
     Quando clico no botão Enviar Cadastro
     Então estou logado na Youse

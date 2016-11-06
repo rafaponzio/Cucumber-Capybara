@@ -36,7 +36,3 @@ Quando(/^clico no botão Enviar Cadastro$/) do
   cadastro = Cadastro.new 
   cadastro.clicar_botao_enviar_cadastro
 end
-
-Então(/^estou logado na Youse$/) do
-  pending # Write code here that turns the phrase above into concrete actions
-end

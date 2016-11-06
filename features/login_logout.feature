@@ -15,7 +15,7 @@ Cenario: login válido
     Então estou logado na Youse
     
 @logout
-Cenario: login válido
+Cenario: logout
     E estou logado com usuario "asd@gasdail.com" e senha "12345678"
     Quando clico no botao Sair
     Então estou deslogado da Youse
