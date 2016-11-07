@@ -11,7 +11,7 @@ Contexto:
 @criar_cadastro_valido
 Cenario: Criar cadastro válido
     E informo o nome "asdaaa"
-    E informo o e-mail "asdaaa@gasdail.com"
+    E informo o e-mail "ttaadd@gasdail.com"
     E informo a senha "12345678"
     E confirmo a senha
     Quando clico no botão Enviar Cadastro
